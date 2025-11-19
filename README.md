@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://your-banner-image-url" alt="Banner" width="100%" />
+</p>
+
+
 <!--
 **kalpthakkar/kalpthakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
