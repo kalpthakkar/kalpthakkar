@@ -103,11 +103,11 @@ Proven expertise in turning messy, multimodal data into decision-ready intellige
 
 ## 💖 CONTACT
 <div align="left">
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A2BE2"></a>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=logmein&logoColor=white&labelColor=1D63ED"></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-FF0099?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=FF66C4"></a>
-<a href="YOUR_GITHUB"><img src="https://img.shields.io/badge/Github-575757?style=for-the-badge&logo=github&logoColor=white&labelColor=black"></a>
-<a href="YOUR_GoogleScholar"><img src="https://img.shields.io/badge/Google_Scholar-6EE7B7?style=for-the-badge&logo=googlescholar&labelColor=43853D&logoColor=white" /></a>
+<a href="mailto:kalpthakkar2001@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A2BE2"></a>
+<a href="https://www.linkedin.com/in/kalpthakkar/"><img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=logmein&logoColor=white&labelColor=1D63ED"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF0099?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=FF66C4"></a>
+<a href="https://github.com/kalpthakkar"><img src="https://img.shields.io/badge/Github-575757?style=for-the-badge&logo=github&logoColor=white&labelColor=black"></a>
+<a href="https://scholar.google.com/citations?user=g7AQ9N0AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-6EE7B7?style=for-the-badge&logo=googlescholar&labelColor=43853D&logoColor=white" /></a>
 </div>
 <br>
 
