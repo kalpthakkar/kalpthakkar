@@ -60,7 +60,6 @@ Proven expertise in turning messy, multimodal data into decision-ready intellige
 
 <!-- Colorful BREAK LINE -->
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
-<br>
 
 <div align="center">
 
@@ -119,4 +118,3 @@ Proven expertise in turning messy, multimodal data into decision-ready intellige
   <h3 align="center"><strong>🪶 TL;DR</strong></h3>
   <p><i>✨ If it's code, data, systems, or signals - it's covered. Not just learned. Lived. ✨</i></p>
 </div>
-<br>
