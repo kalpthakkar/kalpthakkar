@@ -10,7 +10,7 @@ Turning Data Into Decisions
 Open-Source Contributor
 
 -->
-<div style="margin-bottom:-20px;"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3600&pause=600&color=00ff00&width=435&lines=R%26D+in+AI%2FML+%26+Digital+Twins;Architecting+Intelligent+Systems;Software+Engineer;Turning+Data+Into+Decisions;Open-Source+Contributor" alt="Typing SVG" /></div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3600&pause=600&color=00FF00&vCenter=true&width=435&height=21&lines=R%26D+in+AI%2FML+%26+Digital+Twins;Architecting+Intelligent+Systems;Software+Engineer;Turning+Data+Into+Decisions;Open-Source+Contributor" alt="Typing SVG" />
 
 ### <img src="https://img.shields.io/badge/-ABOUT%20ME-0F172A?style=for-the-badge&logoColor=white" />
 
@@ -45,8 +45,8 @@ Proven expertise in turning messy, multimodal data into decision-ready intellige
 <div align="center" style="margin: 20px 0px;">
 
   <!-- Title -->
-  <p align="center"><big><big><strong>⚡ Leetcode Info ⚡</strong></big></big></p>
-  <br/>
+  <h3 align="center"><strong>⚡ Leetcode Info ⚡</strong></h3>
+  <br>
 
   <!-- Badges / Images -->
   <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center; margin: 0;">
@@ -60,13 +60,13 @@ Proven expertise in turning messy, multimodal data into decision-ready intellige
 
 <!-- Colorful BREAK LINE -->
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
-<br/>
+<br>
 
 <div align="center">
 
   <!-- Title -->
-  <p align="center"><big><big><strong>⚡ Current Statistics ⚡</strong></big></big></p>
-  <br/>
+  <h3 align="center"><strong>⚡ Current Statistics ⚡</strong></h3>
+  <br>
 
   <!-- Container for all stats -->
   <div align="center">
@@ -116,7 +116,7 @@ Proven expertise in turning messy, multimodal data into decision-ready intellige
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
 
 <div align="center">
-  <p align="center"><big><strong>🪶 TL;DR</strong></big></p>
+  <h3 align="center"><strong>🪶 TL;DR</strong></h3>
   <p><i>✨ If it's code, data, systems, or signals - it's covered. Not just learned. Lived. ✨</i></p>
 </div>
 <br>
