@@ -45,82 +45,78 @@ Proven expertise in turning messy, multimodal data into decision-ready intellige
 <div align="center" style="margin: 20px 0px;">
 
   <!-- Title -->
-  <p style="font-size: 1.5rem; font-weight: bold; margin-bottom: 15px;">⚡ Leetcode Info ⚡</p>
+  <p align="center"><big><big><strong>⚡ Leetcode Info ⚡</strong></big></big></p>
+  <br/>
 
   <!-- Badges / Images -->
   <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center; margin: 0;">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge" style="height: 80px; width: auto; cursor: pointer;" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge" style="height: 80px; width: auto; cursor: pointer;" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" style="height: 80px; width: auto; cursor: pointer;" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" style="height: 80px; width: auto; cursor: pointer;" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge" height="80" width="auto" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge" height="80" width="auto" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="80" width="auto" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" height="80" width="auto" />
   </p>
 
 </div>
 
 <!-- Colorful BREAK LINE -->
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
+<br/>
 
-
-<div align="center" style="margin: 20px 0;">
+<div align="center">
 
   <!-- Title -->
-  <p style="font-size: 1.5rem; font-weight: bold; margin: 0 0 20px 0;">
-    ⚡ Current Statistics ⚡
-  </p>
+  <p align="center"><big><big><strong>⚡ Current Statistics ⚡</strong></big></big></p>
+  <br/>
 
   <!-- Container for all stats -->
-  <div style="
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 20px;
-      width: 100%;
-    ">
+  <div align="center">
     <!-- Streak -->
     <img 
       src="https://streak-stats.demolab.com/?user=kalpthakkar&count_private=true&theme=react&border_radius=10" 
       alt="streak stats"
-      style="max-width: 390px; width: 100%;"
+      width="410"
     />
+    <br><br>
     <!-- Stats -->
     <img 
       src="https://github-readme-stats.vercel.app/api?username=kalpthakkar&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
       alt="readme stats"
-      style="max-width: 390px; width: 100%;"
+      width="410"
     />
+    <br><br>
     <!-- Languages -->
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpthakkar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
       alt="top langs"
-      style="max-width: 325px; width: 100%;"
+      width="320"
     />
   </div>
-
 </div>
 
 ## 🚀 Recent Activity
-<div align="center" style="margin-bottom: 20px;">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpthakkar&theme=react-dark&hide_border=true&radius=30" />
 </div>
+<br>
 
 <!-- Colorful BREAK LINE -->
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
 
 ## 💖 CONTACT
-<div align="left" style="margin-bottom: 15px;">
+<div align="left">
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A2BE2"></a>
 <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=logmein&logoColor=white&labelColor=1D63ED"></a>
 <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-FF0099?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=FF66C4"></a>
 <a href="YOUR_GITHUB"><img src="https://img.shields.io/badge/Github-575757?style=for-the-badge&logo=github&logoColor=white&labelColor=black"></a>
 <a href="YOUR_GoogleScholar"><img src="https://img.shields.io/badge/Google_Scholar-6EE7B7?style=for-the-badge&logo=googlescholar&labelColor=43853D&logoColor=white" /></a>
 </div>
+<br>
 
 <!-- Colorful BREAK LINE -->
-<div align="center">
-<p><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
-</div>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /></p>
 
-<div align="center" style="margin-bottom: 20px;">
-  <p style="font-size: 1.2rem; font-weight: bold; margin-bottom: 15px;">🪶 TL;DR</p>
+<div align="center">
+  <p align="center"><big><strong>🪶 TL;DR</strong></big></p>
   <p><i>✨ If it's code, data, systems, or signals - it's covered. Not just learned. Lived. ✨</i></p>
 </div>
+<br>
