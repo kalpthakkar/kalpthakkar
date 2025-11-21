@@ -45,7 +45,7 @@ Proven expertise in turning messy, multimodal data into decision-ready intellige
 <div align="center" style="margin: 20px 0px;">
 
   <!-- Title -->
-  <h3 align="center"><strong>⚡ Leetcode Info ⚡</strong></h3>
+  <h3 align="center"><strong>🧩 Leetcode Info</strong></h3>
   <br>
 
   <!-- Badges / Images -->
